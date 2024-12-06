@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mediaClip endTrimDuration="0" startTrimDuration="0" version="1">
+
+  <files>
+    <file id="2" path="Data\audio.wav"/>
+    <file id="1" path="Data\output.1.avi"/>
+  </files>
+
+  <dataChunks>
+    <fileChunk fileId="1">
+      <range duration="486" startTime="0"/>
+      <audio fileId="2" startTime="0"/>
+    </fileChunk>
+    <fileChunk fileId="1">
+      <range duration="3726" startTime="3888"/>
+      <audio fileId="2" startTime="3888"/>
+    </fileChunk>
+    <fileChunk fileId="1">
+      <range duration="3564" startTime="10566"/>
+      <audio fileId="2" startTime="10566"/>
+    </fileChunk>
+    <fileChunk fileId="1">
+      <range duration="5526" startTime="16506"/>
+      <audio fileId="2" startTime="16506"/>
+    </fileChunk>
+    <fileChunk fileId="1">
+      <range duration="7560" startTime="23760"/>
+      <audio fileId="2" startTime="23760"/>
+    </fileChunk>
+    <fileChunk fileId="1">
+      <range duration="1098" startTime="36702"/>
+      <audio fileId="2" startTime="36702"/>
+    </fileChunk>
+    <fileChunk fileId="1">
+      <range duration="20682" startTime="41796"/>
+      <audio fileId="2" startTime="41796"/>
+    </fileChunk>
+    <fileChunk fileId="1">
+      <range duration="1206" startTime="70002"/>
+      <audio fileId="2" startTime="70002"/>
+    </fileChunk>
+    <fileChunk fileId="1">
+      <range duration="1080" startTime="74664"/>
+      <audio fileId="2" startTime="74664"/>
+    </fileChunk>
+    <fileChunk fileId="1">
+      <range duration="9648" startTime="77364"/>
+      <audio fileId="2" startTime="77364"/>
+    </fileChunk>
+    <fileChunk fileId="1">
+      <range duration="4982" startTime="99018"/>
+      <audio fileId="2" startTime="99018"/>
+    </fileChunk>
+  </dataChunks>
+
+</mediaClip>
